@@ -1,5 +1,5 @@
-> [!Alert]
-> This has been moved to official frappe repo @ https://github.com/frappe/whatsapp
+> [!IMPORTANT]
+> This has been moved to official frappe repo: https://github.com/frappe/whatsapp
 
 
 ### WhatsApp
